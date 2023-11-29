@@ -1,6 +1,6 @@
 **Hi there, I'm Ashish Makwana 👋**
 
-I’m a Professional Full Stack Developer with over 6+ years of experience in PHP, Laravel, Codeigniter, ReactJs, MySQL, HTML5, CSS3, Bootstrap, Javascript, Jquery, Ajax, Shopify, WordPress, and Shopify. Apart from this I also work on payment integration like Paypal, Stripe, Razorpay, PayU Money. Other integration like Google Calendar, Firebase notifications, third-party APIs, and CRM Development.
+I’m a Professional Full Stack Developer with over 6+ years of experience in PHP, Laravel, Codeigniter, ReactJs, WordPress, MySQL, HTML5, CSS3, Bootstrap, Javascript, JQuery, and Ajax. Apart from this I also worked on payment integration like Paypal, Stripe, Razorpay, and PayU Money. Other integration like Google Calendar, Firebase notifications, third-party APIs, and CRM Development.
 
 **Website development Experience:-** 
 <ul>
