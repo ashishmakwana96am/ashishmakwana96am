@@ -5,7 +5,7 @@ I’m a Professional Full Stack Developer with over 6+ years of experience in PH
 **Website development Experience:-** 
 <ul>
   <li>Expert in PHP, Codeigniter, Laravel.</li>
-  <li>AngularJS, ReactJS, Redux, Hooks, Node JS, Emotion js, Typescript, MongoDB, Firebase, DynamoDB, nGinx, Docker</li>
+  <li>ReactJS, Redux, Hooks, Node JS, Emotion js, Typescript, MongoDB, Firebase, DynamoDB, Nginx, Docker</li>
   <li>Expert in Web Services, Ajax, XML, JSON, RSS, Swagger</li>
   <li>Create Attractive Graphics and Designs using Adobe Photoshop, Illustrator.</li>
   <li>Expert in modern web standards, W3C validations, Web 2.0, HTML5 HTML5,  CSS3, Jquery, AJAX.</li>
